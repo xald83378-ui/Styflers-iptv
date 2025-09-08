@@ -1,0 +1,43 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="News", Africanews (FR)
+https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
+
+#EXTINF:-1 group-title="News", Africanews (EN)
+https://cdn-euronews.akamaized.net/live/eds/africanews-en/25050/index.m3u8
+
+#EXTINF:-1 group-title="News", France 24 (FR)
+https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+
+#EXTINF:-1 group-title="News", France 24 (EN)
+https://static.france24.com/live/F24_EN_HI_HLS/live_tv.m3u8
+
+#EXTINF:-1 group-title="News", France 24 (AR)
+https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
+
+#EXTINF:-1 group-title="News", DW News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 group-title="News", Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 group-title="News", CGTN English
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTM3U
+
+# — Chaînes News Internationales déjà présentes —
+#EXTINF:-1 group-title="News", Africanews (FR)
+...
+
+# — Chaînes Africa locales —
+#EXTINF:-1 group-title="Afrique Cameroun playlist", Cameroun (iptv-org)
+https://iptv-org.github.io/iptv/countries/cm.m3u
+
+#EXTINF:-1 group-title="Afrique Côte d’Ivoire playlist", Côte d'Ivoire (iptv-org)
+https://iptv-org.github.io/iptv/countries/ci.m3u
+
+#EXTINF:-1 group-title="Afrique Sénégal playlist", Sénégal (iptv-org)
+https://iptv-org.github.io/iptv/countries/sn.m3u
+
+#EXTINF:-1 group-title="Afrique Nigeria playlist", Nigeria (iptv-org)
+https://iptv-org.github.io/iptv/countries/ng.m3u
